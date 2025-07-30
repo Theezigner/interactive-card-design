@@ -110,10 +110,10 @@ input.value = input.value
 
 ## Screenshot
 
-- [Desktop Empty](/images/desktop-empty.png)
-- [Mobile Empty](/images/mobile-empty.png)
-- [Desktop Thank you](/images/desktop-thankyou.png)
-- [Desktop Thank you](/images/desktop-thankyou.png)
+- [Desktop Empty](./public/images/desktop-empty.png)
+- [Mobile Empty](./public/images/mobile-empty.png)
+- [Desktop Thank you](./public/images/desktop-thankyou.png)
+- [Desktop Thank you](./public/images/mobile-thankyou.png)
 
 ---
 
