@@ -244,7 +244,7 @@ export function submitButton() {
 //thank you
 export function thankYou() {
     const thankYouSection = document.createElement('section')
-    thankYouSection.className = ' hidden bg-white w-full h-screen flex flex-col md:justify-center md:items-center pt-30 md:pt-0 px-10 md:px-20';
+    thankYouSection.className = 'hidden h-screen z-10 flex flex-col md:w-[50%] md:justify-center md:items-center pt-30 md:pt-0 mx-10 md:mx-20';
 
     const thankYouElement = document.createElement('form');
     thankYouElement.className = 'w-full md:w-96 flex flex-col gap-5 justify-center items-center';

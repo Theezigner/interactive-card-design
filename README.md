@@ -120,8 +120,8 @@ input.value = input.value
 ## 🔗 Live Demo
 
 > Replace these with actual links once hosted
-- [Live Site URL](https://your-live-site-url.com)
-- [GitHub Repo](https://github.com/your-username/credit-card-form)
+- [Live Site URL](https://interactive-card-design-plum.vercel.app/)
+- [GitHub Repo](https://github.com/Theezigner/interactive-card-design.git)
 
 ---
 
