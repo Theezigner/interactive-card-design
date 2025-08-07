@@ -118,8 +118,6 @@ input.value = input.value
 ---
 
 ## 🔗 Live Demo
-
-> Replace these with actual links once hosted
 - [Live Site URL](https://interactive-card-design-plum.vercel.app/)
 - [GitHub Repo](https://github.com/Theezigner/interactive-card-design.git)
 
